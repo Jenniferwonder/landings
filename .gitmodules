@@ -1,3 +1,18 @@
 [submodule "medium-clone-on-node"]
 	path = medium-clone-on-node
 	url = https://github.com/Jenniferwonder/medium-clone-on-node.git
+[submodule "gpt-landing"]
+	path = gpt-landing
+	url = https://github.com/Jenniferwonder/gpt-landing.git
+[submodule "forkify-app"]
+	path = forkify-app
+	url = https://github.com/Jenniferwonder/forkify-app.git
+[submodule "natours-homepage"]
+	path = natours-homepage
+	url = https://github.com/Jenniferwonder/natours-homepage.git
+[submodule "nexter-homepage"]
+	path = nexter-homepage
+	url = https://github.com/Jenniferwonder/nexter-homepage.git
+[submodule "bank-landing"]
+	path = bank-landing
+	url = https://github.com/Jenniferwonder/bank-landing.git
